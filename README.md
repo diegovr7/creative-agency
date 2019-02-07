@@ -18,6 +18,8 @@
   <li>Smartwatch image by <a href="https://unsplash.com/@lukechesser">Luke Chesser</a> from <a href="https://unsplash.com">Unsplash</a></li>
   <li>Be Creative image by <a href="https://unsplash.com/@rawpixel">Rawpixel</a> from <a href="https://unsplash.com">Unsplash</a></li>
   <li>Prototype image from <a href="https://unsplash.com">Unsplash</a></li>
+  <li>Google Font <a href="https://fonts.google.com/specimen/Montserrat">Montserrat</a></li>
+  <li>Google Font <a href="https://fonts.google.com/specimen/Roboto">Roboto</a></li>
 </ul>
 
 # Bugs and Issues
